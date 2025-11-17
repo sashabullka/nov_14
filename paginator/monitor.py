@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 
+
 class MonitorPage:
 
     def __init__(self, driver):
